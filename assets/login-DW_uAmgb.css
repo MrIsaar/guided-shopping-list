@@ -1,0 +1,1 @@
+.client-id-Section{margin:20px}@keyframes spin-back{0%{transform:rotate(0)}50%{transform:rotate(50deg)}to{transform:rotate(0)}}.spinning-google{animation:4s linear infinite spin-back}.client-id{width:300px;margin:10px;padding:10px;font-size:16px}.google-drive-connect-parent{margin:10px;padding:30px}.formFlex{flex-direction:column;align-items:center;display:flex}
